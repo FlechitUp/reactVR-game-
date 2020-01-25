@@ -1,0 +1,37 @@
+{
+  "name": "virosample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "prestart": "./node_modules/react-viro/bin/run_ngrok.sh",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "core-js": "^2.6.9",
+    "ngrok": "^3.2.4",
+    "react": "16.8.3",
+    "react-native": "^0.60.5",
+    "react-native-dotenv": "^0.2.0",
+    "react-viro": "2.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/runtime": "7.5.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.55.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "sample with viro ar",
+  "main": "index.js",
+  "keywords": [
+    "viro",
+    "ar"
+  ],
+  "author": "XimePocco",
+  "license": "ISC"
+}
