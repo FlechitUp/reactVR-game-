@@ -1,2 +1,2 @@
 https://youtu.be/zVYWBPKJhNQ
-[![descrição da imagem](https://img.youtube.com/vi/<ID DO VIDEO>/0.jpg)](https://www.youtube.com/watch?v=<ID DO VIDEO>)
+[![React VR - Surfer Portal](https://img.youtube.com/vi/zVYWBPKJhNQ/0.jpg)](https://www.youtube.com/watch?v=zVYWBPKJhNQ)
